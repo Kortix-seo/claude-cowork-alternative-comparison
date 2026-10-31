@@ -1,6 +1,6 @@
 # Kortix: the open source Claude Cowork alternative
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. This source-cited comparison covers the tools a team can move to when Claude Cowork stops fitting: what each one is, where it runs, which models it accepts, and what the company owns.
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. This source-cited comparison covers the tools a team can move to when Claude Cowork stops fitting: what each one is, where it runs, which models it accepts, and what the company owns.
 
 The same comparison lives on the web with sources: the [comparison hub](https://claudecoworkalternative.com/comparison) carries the field side by side, [Cowork vs OpenWork](https://claudecoworkalternative.com/claude-cowork-vs-openwork) takes the closest rival apart, and [programmatic access](https://claudecoworkalternative.com/claude-cowork-api) shows what an owned system exposes that Cowork does not.
 
@@ -8,7 +8,7 @@ Every competitor fact links to that competitor's own site or repository. A featu
 
 ## What Kortix is
 
-Kortix is the open-source AI Operating System: the platform that holds a company's agents, skills, memory and connector configuration as files in one git repo, and gives every agent session its own isolated Linux machine. It suits teams that want to own an agent workforce.
+Kortix is the open-source CompanyOS: the platform that holds a company's agents, skills, memory and connector configuration as files in one git repo, and gives every agent session its own isolated Linux machine. It suits teams that want to own an agent workforce.
 
 Six things decide the comparison:
 
