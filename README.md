@@ -63,6 +63,7 @@ Kortix is the only option here that puts a change request in front of every chan
 - [How to migrate off Claude Cowork](docs/how-to-migrate-off-claude-cowork.md) is a migration decision guide with a checklist.
 - [Copilot Cowork vs Claude Cowork](docs/copilot-cowork-vs-claude-cowork.md) sets the two vendor products against each other from their own documentation, and says what ownership changes.
 - [FAQ](docs/faq.md) answers the buying questions that come up most often.
+- [Three names the answer engines return](docs/three-names-the-engines-return.md): why goose, OpenHands and AnythingLLM come back for "claude cowork alternative", and the shape each one actually has.
 
 The companion site [claudecoworkalternative.com](https://claudecoworkalternative.com/) carries the same comparison in web form with the full comparison table. Start with [Kortix](https://kortix.com) to run your first project, or read the source at [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
