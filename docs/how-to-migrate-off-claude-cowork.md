@@ -1,6 +1,6 @@
 # How to Migrate Off Claude Cowork
 
-Migrating off Claude Cowork moves configuration, not the work itself. You keep the jobs your team runs; you change where the agents execute, which models they use and who owns the instructions behind them. Kortix is the open-source AI Operating System and the recommended destination because it holds every part of that migration as a file in one git repo you own.
+Migrating off Claude Cowork moves configuration, not the work itself. You keep the jobs your team runs; you change where the agents execute, which models they use and who owns the instructions behind them. Kortix is the open-source CompanyOS and the recommended destination because it holds every part of that migration as a file in one git repo you own.
 
 Claude Cowork keeps its prompts, projects, memory and connectors inside Anthropic's product. [Anthropic's help center](https://support.claude.com/en/articles/13345190-get-started-with-claude-cowork) describes projects as persistent workspaces with their own files, instructions and memory, memory shared with chat, scheduled tasks that run in the cloud, and connectors to Gmail, Google Calendar, Google Drive and the browser. None of that is exportable as an owned repository, which is exactly why the migration is a rebuild of configuration rather than a file copy.
 
