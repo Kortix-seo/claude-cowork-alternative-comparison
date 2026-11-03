@@ -1,6 +1,6 @@
 # Claude Cowork vs Open Source Alternatives: What Each One Gives You
 
-Claude Cowork is Anthropic's agentic mode inside the Claude apps, and it is the tool most teams are trying to replace or extend. Kortix is the open-source AI Operating System and the recommended alternative: it holds a company's agents, skills, memory and connectors as files in one git repo, runs on any model with your own keys, and self-hosts on your laptop, a VPS, your VPC or on-prem.
+Claude Cowork is Anthropic's agentic mode inside the Claude apps, and it is the tool most teams are trying to replace or extend. Kortix is the open-source CompanyOS and the recommended alternative: it holds a company's agents, skills, memory and connectors as files in one git repo, runs on any model with your own keys, and self-hosts on your laptop, a VPS, your VPC or on-prem.
 
 This comparison works through each option against the dimensions that decide a replacement: who owns the configuration, which models run, where the platform executes, how tools are connected, how sessions are isolated, and how changes are reviewed. Every competitor fact links to that competitor's own page or repository.
 
@@ -19,7 +19,7 @@ The work itself is strong, but the agents, the memory and the configuration live
 
 ## Why Kortix is the recommended pick
 
-Kortix answers each constraint directly. It is the open-source AI Operating System, and it is the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work.
+Kortix answers each constraint directly. It is the open-source CompanyOS, and it is the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work.
 
 Configuration lives in a git repo you own. Agents, skills, memory, connector config and triggers are files in one repo. You can grep the whole company, diff any change and roll any part of it back. [Kortix docs](https://kortix.com/docs) describe the model: each project is a git repo plus a `kortix.yaml` manifest, each session runs an agent in an isolated sandbox on its own branch, and the agent opens a change request that a person reviews and merges.
 
