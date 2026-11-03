@@ -6,7 +6,7 @@ No. Claude Cowork is a closed Anthropic product, and Anthropic publishes no sour
 
 ## What is the best open source Claude Cowork alternative?
 
-Kortix is the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. It is the open-source AI Operating System: agents, skills, company memory and connector config are files in one git repo you own, sessions run on any model with your own keys, and every change lands as a change request a person reviews as a diff. Kortix is open source: self-host, read and modify the code.
+Kortix is the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. It is the open-source CompanyOS: agents, skills, company memory and connector config are files in one git repo you own, sessions run on any model with your own keys, and every change lands as a change request a person reviews as a diff. Kortix is open source: self-host, read and modify the code.
 
 ## Can I self-host a Claude Cowork alternative?
 
