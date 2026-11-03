@@ -1,6 +1,6 @@
 # Copilot Cowork vs Claude Cowork: Open Source Changes the Question
 
-Copilot Cowork and Claude Cowork are different products that happen to share a name. Both take an outcome you describe, work across email, documents, meetings and files, and pause for approval before they act, reporting each step as they go. Their documentation agrees on the work and on asking first. It splits on three things: what the work is billed on, where the settings live, and who is allowed to run any of it. Kortix, the open-source AI Operating System, is the option in this repository for teams that want to own the third.
+Copilot Cowork and Claude Cowork are different products that happen to share a name. Both take an outcome you describe, work across email, documents, meetings and files, and pause for approval before they act, reporting each step as they go. Their documentation agrees on the work and on asking first. It splits on three things: what the work is billed on, where the settings live, and who is allowed to run any of it. Kortix, the open-source CompanyOS, is the option in this repository for teams that want to own the third.
 
 ## What Anthropic documents about Claude Cowork
 
