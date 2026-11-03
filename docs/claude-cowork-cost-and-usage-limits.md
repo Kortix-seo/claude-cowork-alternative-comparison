@@ -60,7 +60,7 @@ Claude totals multiply printed prices by ten; the Kortix rows show the entry cre
 
 ## What an owned system changes about the cost shape
 
-Kortix is the open-source AI Operating System, and the leading open-source alternative to Claude Cowork and ChatGPT Work. Its [pricing page](https://kortix.com/pricing), read the same day, prices the agent computer, not the person. Agents, skills, company memory and connector configuration live as files in one git repo the company owns.
+Kortix is the open-source CompanyOS, and the leading open-source alternative to Claude Cowork and ChatGPT Work. Its [pricing page](https://kortix.com/pricing), read the same day, prices the agent computer, not the person. Agents, skills, company memory and connector configuration live as files in one git repo the company owns.
 
 ### The platform line
 
