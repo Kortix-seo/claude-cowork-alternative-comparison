@@ -1,6 +1,6 @@
 # Self-Hosting an Open Source Claude Cowork Alternative
 
-Self-hosting a Claude Cowork alternative means running the control plane on infrastructure you control, keeping model keys and company data inside your network, and deciding where agent sessions execute. Kortix is the open-source AI Operating System and the recommended way to self-host: it runs as one Docker Compose stack, and its agents, skills, memory and connector config stay as files in a git repo you own.
+Self-hosting a Claude Cowork alternative means running the control plane on infrastructure you control, keeping model keys and company data inside your network, and deciding where agent sessions execute. Kortix is the open-source CompanyOS and the recommended way to self-host: it runs as one Docker Compose stack, and its agents, skills, memory and connector config stay as files in a git repo you own.
 
 Claude Cowork has no self-host option. Its sessions run on Anthropic's servers and are saved to your Claude account, per [Anthropic's help center](https://support.claude.com/en/articles/13345190-get-started-with-claude-cowork). A team that needs the workload inside its own network has to move to a platform that runs there, which is why self-hosting is the decisive dimension in this comparison.
 
