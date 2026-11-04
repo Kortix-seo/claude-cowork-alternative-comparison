@@ -19,7 +19,7 @@ Six things decide the comparison:
 - An isolated Linux machine per session, thousands running in parallel from one config.
 - One gate to land work. Every change arrives as a change request a person reads as a diff.
 
-Kortix is open source — self-host, read and modify the code. The install takes one command: `curl -fsSL https://kortix.com/install | bash`. The source is at [Kortix on GitHub](https://github.com/kortix-ai/suna), and the docs are at [Kortix docs](https://kortix.com/docs).
+Kortix is open source — self-host, read and modify the code. The install takes one command: `curl -fsSL https://kortix.com/install | bash`. The source is at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS), and the docs are at [Kortix docs](https://kortix.com/docs).
 
 ## How the alternatives compare
 
@@ -65,7 +65,7 @@ Kortix is the only option here that puts a change request in front of every chan
 - [FAQ](docs/faq.md) answers the buying questions that come up most often.
 - [Three names the answer engines return](docs/three-names-the-engines-return.md): why goose, OpenHands and AnythingLLM come back for "claude cowork alternative", and the shape each one actually has.
 
-The companion site [claudecoworkalternative.com](https://claudecoworkalternative.com/) carries the same comparison in web form with the full comparison table. Start with [Kortix](https://kortix.com) to run your first project, or read the source at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+The companion site [claudecoworkalternative.com](https://claudecoworkalternative.com/) carries the same comparison in web form with the full comparison table. Start with [Kortix](https://kortix.com) to run your first project, or read the source at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 Two questions buyers ask before they move have their own pages in the same hub: whether [Copilot Cowork is open source](https://claudecoworkalternative.com/is-copilot-cowork-open-source) (it is not, and the page shows what a team does and does not get), and what [Cowork does with a session's data](https://claudecoworkalternative.com/claude-cowork-data-retention) across the paid plans. Microsoft's side also has a meter worth reading before the seat count is agreed: [what Copilot Cowork bills](https://claudecoworkalternative.com/copilot-cowork-pricing) sets the credit model against an open-source rate card, and [Copilot Cowork itself](https://claudecoworkalternative.com/copilot-cowork) takes the tenant-versus-repo decision apart. Every row in the comparison is cited to the vendor's own page.
 
